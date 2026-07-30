@@ -3,3 +3,10 @@ hr {
       border-top: 3px solid cyan;
       height: 0;
 }
+
+.main-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: white;
+}
